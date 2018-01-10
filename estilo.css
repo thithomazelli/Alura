@@ -6,3 +6,7 @@ boby {
 h2 {
   overflow: auto;
 }
+
+footer {
+  text-decoration: underline;
+}
